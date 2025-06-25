@@ -1,0 +1,16 @@
+{
+  "ver": "1.0.0",
+  "importer": "*",
+  "imported": true,
+  "uuid": "a72f9544-1923-4c6e-bdd5-5ea61f6741cd",
+  "files": [
+    ".psd",
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "redirect": "a72f9544-1923-4c6e-bdd5-5ea61f6741cd@f9941"
+  }
+}
